@@ -193,14 +193,14 @@
   "home_name": "Daytona Spin Casino",
   "subdomains": null,
   "accent_color": "#334155",
-  "main_background": "#131b18",
-  "secondary_background": "#232b28",
-  "button_background": "#ffd900",
+  "main_background": "#000000",
+  "secondary_background": "#241c27",
+  "button_background": "#fedf39",
   "button_text_color": "#000000",
   "text_color": "#ffffff",
-  "color_highlight_text": "#ffd900",
+  "color_highlight_text": "#ffffff",
   "color_main_btn_text": "#000000",
-  "cta_background": "#ffd900",
+  "cta_background": "#fedf39",
   "logo": {
     "url": "/uploads/99f51d7cb9996bac180248ea57fc2d0c.webp",
     "alt": "daytona spin logo"
@@ -396,8 +396,8 @@
       "question": "Kan ik spelen op mijn mobiele telefoon?"
     }
   ],
-  "_generated_at": "2026-10-14T10:27:13.665Z",
+  "_generated_at": "2026-10-14T10:28:58.570Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-14T10:27:14.255Z",
-  "_deploy_trigger": "nhs5s"
+  "_last_deploy": "2026-10-14T10:28:59.162Z",
+  "_deploy_trigger": "ov21b"
 }
