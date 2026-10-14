@@ -67,31 +67,27 @@
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
+          "logo": "/uploads/94d2f0583b87f4027db9940c29c43822.webp",
           "name": "Herlaadbonus: +50% op je volgende storting",
-          "Name": "Herlaadbonus: +50% op je volgende storting",
-          "logo_alt": "Welcome Bonus"
+          "Name": "Herlaadbonus: +50% op je volgende storting"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/ac7e9cfbff64af271c1b585bbbb96a1d.webp",
+          "logo": "/uploads/074ffcde24a4bb9847b495805e11d148.webp",
           "name": "Woensdag Spins: Tot 50 gratis spins",
-          "Name": "Woensdag Spins: Tot 50 gratis spins",
-          "logo_alt": "Reload Bonus"
+          "Name": "Woensdag Spins: Tot 50 gratis spins"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
+          "logo": "/uploads/6a8cfb128b7a872406ab8ebdc5244c01.webp",
           "name": "Casinocashback: 15% terug bij verlies",
-          "Name": "Casinocashback: 15% terug bij verlies",
-          "logo_alt": "Weekly Bonus"
+          "Name": "Casinocashback: 15% terug bij verlies"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
+          "logo": "/uploads/3cd89a359c6c752b44f3203ec79790c0.webp",
           "name": "Sportboost: +50% winst op combi-bets",
-          "Name": "Sportboost: +50% winst op combi-bets",
-          "logo_alt": "Cashback Bonus"
+          "Name": "Sportboost: +50% winst op combi-bets"
         }
       ],
       "faq": [],
@@ -343,31 +339,27 @@
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
+      "logo": "/uploads/94d2f0583b87f4027db9940c29c43822.webp",
       "name": "Herlaadbonus: +50% op je volgende storting",
-      "Name": "Herlaadbonus: +50% op je volgende storting",
-      "logo_alt": "Welcome Bonus"
+      "Name": "Herlaadbonus: +50% op je volgende storting"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/ac7e9cfbff64af271c1b585bbbb96a1d.webp",
+      "logo": "/uploads/074ffcde24a4bb9847b495805e11d148.webp",
       "name": "Woensdag Spins: Tot 50 gratis spins",
-      "Name": "Woensdag Spins: Tot 50 gratis spins",
-      "logo_alt": "Reload Bonus"
+      "Name": "Woensdag Spins: Tot 50 gratis spins"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
+      "logo": "/uploads/6a8cfb128b7a872406ab8ebdc5244c01.webp",
       "name": "Casinocashback: 15% terug bij verlies",
-      "Name": "Casinocashback: 15% terug bij verlies",
-      "logo_alt": "Weekly Bonus"
+      "Name": "Casinocashback: 15% terug bij verlies"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
+      "logo": "/uploads/3cd89a359c6c752b44f3203ec79790c0.webp",
       "name": "Sportboost: +50% winst op combi-bets",
-      "Name": "Sportboost: +50% winst op combi-bets",
-      "logo_alt": "Cashback Bonus"
+      "Name": "Sportboost: +50% winst op combi-bets"
     }
   ],
   "Reviews": null,
@@ -397,9 +389,9 @@
       "question": "Kan ik spelen op mijn mobiele telefoon?"
     }
   ],
-  "_generated_at": "2026-10-14T13:30:17.142Z",
+  "_generated_at": "2026-10-14T15:52:58.511Z",
   "_version": "1.0.0",
   "content_alt": "daytona spin bonuses",
-  "_last_deploy": "2026-10-14T13:30:17.800Z",
-  "_deploy_trigger": "jfcwzo"
+  "_last_deploy": "2026-10-14T15:52:59.125Z",
+  "_deploy_trigger": "oj7syx9"
 }
