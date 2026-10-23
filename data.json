@@ -32,7 +32,7 @@
       "lang": "nl-NL",
       "faqTitle": "FAQ – Veelgestelde Vragen",
       "popupText": "WELKOMSTBONUS: 255% tot €4.500 + 255 FS",
-      "popupLogo": "/uploads/99f51d7cb9996bac180248ea57fc2d0c.webp",
+      "popupLogo": "/uploads/663f39a8c482b4d649de5888ae0ef057.svg",
       "sections": null,
       "slots": [
         {
@@ -99,7 +99,7 @@
       "globalSlotSet": null,
       "globalReviewSet": null,
       "popup_text": "WELKOMSTBONUS: 255% tot €4.500 + 255 FS",
-      "popup_logo": "/uploads/99f51d7cb9996bac180248ea57fc2d0c.webp",
+      "popup_logo": "/uploads/663f39a8c482b4d649de5888ae0ef057.svg",
       "hero_title": "Officiële website Daytona Spin Casino",
       "hero_subtitle": "Snel spelen, sneller winnen",
       "hero_image": "/uploads/b0bac3467bd92ef1eb2fc75e13497632.webp",
@@ -111,8 +111,8 @@
       "cta_text": "Claim je bonus",
       "content_alt": "daytona spin bonuses",
       "heroImage_alt": "daytona spin baner",
-      "popupLogo_alt": "daytona spin logo",
-      "popup_logo_alt": "daytona spin logo",
+      "popupLogo_alt": "daytonaspin logo",
+      "popup_logo_alt": "daytonaspin logo",
       "hero_image_alt": "daytona spin baner"
     }
   ],
@@ -199,12 +199,12 @@
   "color_main_btn_text": "#000000",
   "cta_background": "#fedf39",
   "logo": {
-    "url": "/uploads/99f51d7cb9996bac180248ea57fc2d0c.webp",
-    "alt": "daytona spin logo"
+    "url": "/uploads/663f39a8c482b4d649de5888ae0ef057.svg",
+    "alt": "daytonaspin logo"
   },
   "popup_logo": {
-    "url": "/uploads/99f51d7cb9996bac180248ea57fc2d0c.webp",
-    "alt": "daytona spin logo"
+    "url": "/uploads/663f39a8c482b4d649de5888ae0ef057.svg",
+    "alt": "daytonaspin logo"
   },
   "main_background_img": {
     "url": "/uploads/b0bac3467bd92ef1eb2fc75e13497632.webp",
@@ -389,9 +389,9 @@
       "question": "Kan ik spelen op mijn mobiele telefoon?"
     }
   ],
-  "_generated_at": "2026-10-23T14:17:12.358Z",
+  "_generated_at": "2026-10-23T14:19:44.691Z",
   "_version": "1.0.0",
   "content_alt": "daytona spin bonuses",
-  "_last_deploy": "2026-10-23T14:17:13.024Z",
-  "_deploy_trigger": "tmc4t9"
+  "_last_deploy": "2026-10-23T14:19:45.414Z",
+  "_deploy_trigger": "fp5neu"
 }
